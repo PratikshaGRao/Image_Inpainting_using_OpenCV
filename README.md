@@ -4,5 +4,6 @@ Image In-painting is a process of restorative conservation of images, where dama
 
 It involves application of sophisticated algorithms to replace lost or corrupted parts of the image data using mainly pixel prediction.
 
-![image](https://user-images.githubusercontent.com/88997340/185057626-687d552c-9671-4da9-be6a-66d88fe393aa.png)
+![image](https://user-images.githubusercontent.com/88997340/185057838-79274d6f-b09b-4df3-b00c-6d1297d5a6b9.png)
+
 
