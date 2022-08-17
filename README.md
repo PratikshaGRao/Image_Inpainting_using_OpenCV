@@ -6,7 +6,7 @@ It involves application of sophisticated algorithms to replace lost or corrupted
 
 ![image](https://user-images.githubusercontent.com/88997340/185057974-3a16e685-4209-4274-8fb9-88088645979f.png)
 
-OpenCV is a massive open-source library for various fields like computer vision, machine learning, image processing and plays a critical function in real-time operations, which are fundamental in today’s systems. It is deployed for the detection of objects, faces, diseases, number plates, and even handwriting in various images and videos. With help of OpenCV in Deep Learning, we are trying to regenerate damaged imgages for their restoration.
+OpenCV is a massive open-source library for various fields like computer vision, machine learning, image processing and plays a critical function in real-time operations, which are fundamental in today’s systems. It is deployed for the detection of objects, faces, diseases, number plates, and even handwriting in various images and videos. With help of OpenCV in Deep Learning, we are trying to regenerate damaged images for their restoration.
 
 Let's see what all OpenCV Python provides to do this inpainting!!
 
