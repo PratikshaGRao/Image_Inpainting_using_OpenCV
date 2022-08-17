@@ -10,7 +10,7 @@ OpenCV is a massive open-source library for various fields like computer vision,
 
 Let's see what all OpenCV Python provides to do this inpainting!!
 
-## Fast Marching Method
+### Fast Marching Method
 
 This method is to solve the boundary value problems of the Eikonal equation:
 
@@ -18,7 +18,7 @@ F(x)|∇T(x)|=1
 
 Where F(x) is a speed function in the normal direction at a point x on the boundary curve. T is the time at which the contour crosses a point x which is obtained by solving the equation. We have used cv2.inpaint() function with a parameter cv2.INPAINT_TELEA. The name "telea" is from the author (Alexandru Telea) from his paper, "An Image Inpainting Technique Based on the Fast Marching Method".
 
-## Navier-Stokes Method
+### Navier-Stokes Method
 
 This method restores the selected region in an image using the region neighborhood. The function reconstructs the selected image area from the pixel near the area boundary.
 
